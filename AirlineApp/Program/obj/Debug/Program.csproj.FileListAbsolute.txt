@@ -1,0 +1,8 @@
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\bin\Debug\Program.exe.config
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\bin\Debug\Program.exe
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\bin\Debug\Program.pdb
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\bin\Debug\AirlineApp.dll
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\bin\Debug\AirlineApp.pdb
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\obj\Debug\Program.exe
+F:\c#\AirlineApp\AirlineApp\AirlineApp\Program\obj\Debug\Program.pdb

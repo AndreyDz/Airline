@@ -1,0 +1,5 @@
+F:\c#\AirlineApp\AirlineApp\AirlineApp\AirlineApp\bin\Debug\AirlineApp.dll
+F:\c#\AirlineApp\AirlineApp\AirlineApp\AirlineApp\bin\Debug\AirlineApp.pdb
+F:\c#\AirlineApp\AirlineApp\AirlineApp\AirlineApp\obj\Debug\AirlineModelLibrary.csprojResolveAssemblyReference.cache
+F:\c#\AirlineApp\AirlineApp\AirlineApp\AirlineApp\obj\Debug\AirlineApp.dll
+F:\c#\AirlineApp\AirlineApp\AirlineApp\AirlineApp\obj\Debug\AirlineApp.pdb
